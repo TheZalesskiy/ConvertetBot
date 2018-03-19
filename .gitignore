@@ -1,0 +1,8 @@
+build
+target
+logs
+.sonar
+.project
+.classpath
+.idea
+*.iml
